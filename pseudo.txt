@@ -1,0 +1,55 @@
+1. An algorithm that asks a user to enter a positive number repeatedly until the user enters a zero value, then determines and outputs the largest of the numbers that were input.
+ 
+START
+Loop till the user enters zero
+  Read the number from the user
+  add the number to the list
+
+when loop breaks,
+ store the first number into max variable
+loop till the end of the list
+   if the number is greater than max
+    overwrite value of max
+    else 
+    remain the max value same
+when the loop breaks, print max value
+END
+
+2. An algorithm that reads an arbitary number of integers and then returns their arithmetic average
+
+START
+Read the number of numbers user want to enter
+store the value in a x variable
+loop x number of times
+  read the number from the user
+  add the number to sum
+when loop breaks, divide sum by x 
+ store the value in average variable 
+print average
+END
+
+3. An algorithm that reads a grocery list and print out the list(in alphabetical order) that are still left to buy
+
+START
+Read the grocery list from the user
+sort the list in an alphabetical order
+print the list.
+END
+
+
+4.START
+  Read the two numbers from the user
+  Add the numbers and store in S variable
+  Divide S by 2 and store in A variable
+  Muliply the two numbers and store in P variable
+  Print S
+  Print A
+  Print P
+  END
+
+
+
+
+
+
+ 

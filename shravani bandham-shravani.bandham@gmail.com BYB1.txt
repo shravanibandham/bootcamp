@@ -1,0 +1,29 @@
+I am taking software engineering bootcamp, as I was always interested in solving problems with technical solutions. Prior to bootcamp, I didn't know much of programming languages, the bootcamp helped me in learning a programming language Python, which is one of the popular languages used to solve the problems technically, as it has the capability to integrate with several platforms, AI based programs uses Python, even in Gaming also Python can be useful. 
+The bootcamp also helped to learn about version controlling and Git version control system.
+We have been introduced to NLP which helped us familiarize with the semantic similarity. The popular application of NLP widely used for social media analysis.
+We have learned front end development using html, css, bootstrap and Django. Front end development is very popular and is needed for almost all of the applications.These skills helps me in widening my search for opportunities.
+We have learned about different databases and how to build a releational database using SQL.
+By learning Python, Git, NLP, Html,CSS, bootstrap, Django and SQL database, now I can apply for opportunities in multiple industries where there is a need of developers with these technical skills.
+
+I think the following jobs would be suitable for me.
+
+Full Job Description
+Junior Python Developer / Software Engineer *Hybrid WFH* to £40k
+Would you like to work on complex, cutting edge technology? You could be progressing your career with continual learning opportunities at a growing tech company as they expand their UK presence (already hugely successful in the US).
+As a Junior Python Developer you will join a small, Agile development with a focus on building Python backend components and RESTful APIs for the core product - an AI web based video streaming platform used for security on things such as construction sites and hospitals that flags up warnings re. safety etc. The possibilities of use and scope for the product are vast.
+You'll develop highly performant, testable code and build reusable libraries with exposure across the full development lifecycle using a range of modern tech focussing on backend Python and RESTful APIs within a microservices environment deploying via CI/CD to the cloud (AWS / GCP).
+You'll join a highly talented team and will have plenty of opportunity to upskill and progress your career with mentoring and regular training.
+
+WFH Policy:
+Following a remote interview you'll have flexibility to work from home most of the time, meeting up with colleagues in the London office once a week.
+
+Requirements for Junior Python Developer:
+You're degree educated in Computer Science or similar STEM discipline; 2.1 or above
+You have backend Python development skills
+You have a good understanding of CI/CD, TDD and Agile methodologies
+Ideally you'll be familiar with Docker, Kubernetes and Cloud based services (AWS / GCP preferred)
+You're collaborative with great communication skills
+
+Salary & benefits:
+As a Junior Python Developer / Software Engineer you will earn a competitive salary (to £40k) plus bonus and a range of benefits and perks including pension and healthcare.
+Apply now to find out more about this Junior Python Developer / Software Engineer (Python API) opportunity.

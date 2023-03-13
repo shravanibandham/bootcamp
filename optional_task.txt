@@ -1,0 +1,10 @@
+START
+Read four numbers from the user and store in the list
+Initialise i=0
+loop till i is greater than 3
+  In this loop initialise j to the value of i and continue till j is greater than 3
+ if the value at i is greater than j
+  swap the values at i and j places
+print the list
+END
+

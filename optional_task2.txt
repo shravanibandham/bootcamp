@@ -1,0 +1,22 @@
+Pseucode for the algorithm that asks the user for a number and stores the number in a variable called n. then the algorithm should calculate and print out first n numbers in the fibonacci sequence
+
+START
+Request the user to input a number
+store the number into a variable called "n"
+Initialise the variable called "i" to 0
+Initialise the variable called "f0" to 0
+Initialise the variable called "f1" to 1
+if "n" is less than zero
+ print please input a positive integer
+if "n" is equal to zero 
+ print 0
+if "n" is greater than equal to zero
+ print fibonacci series:
+ loop until "i" is less than "n"
+ print "f0" 
+ add "f0" and "f1"
+ store the added value into variable called "f2"
+ now, change the value of "f0" to "f1"   
+ change the value of "f1" to "f2"
+ incriment the vaue of "i" by 1
+END 

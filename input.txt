@@ -1,0 +1,7 @@
+Advantages of python:
+Easy to read, learn and code
+Dynamic Typing
+Free, Open Source
+Portable
+Extensive Third-Party Libraries
+Wide Range of Applications

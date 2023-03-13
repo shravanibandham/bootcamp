@@ -1,0 +1,6 @@
+I am taking software engineering bootcamp, as I was always interested in solving problems with technical solutions. Prior to bootcamp, I didn't know much of programming languages, the bootcamp helped me in learning a programming language Python, which is one of the popular languages used to solve the problems technically, as it has the capability to integrate with several platforms, AI based programs uses Python, even in Gaming also Python can be useful. 
+The bootcamp also helped to learn about version controlling and Git version control system.
+We have been introduced to NLP which helped us familiarize with the semantic similarity. The popular application of NLP widely used for social media analysis.
+We have learned front end development using html, css, bootstrap and Django. Front end development is very popular and is needed for almost all of the applications.These skills helps me in widening my search for opportunities.
+We have learned about different databases and how to build a releational database using SQL.
+By learning Python, Git, NLP, Html,CSS, bootstrap, Django and SQL database, now I can apply for opportunities in multiple industries where there is a need of developers with these technical skills.
